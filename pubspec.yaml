@@ -22,5 +22,3 @@ flutter:
       android:
         package: id.laskarmedia.openvpn_flutter
         pluginClass: OpenVPNFlutterPlugin
-      ios:
-        pluginClass: OpenVPNFlutterPlugin
